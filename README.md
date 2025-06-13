@@ -94,13 +94,6 @@ requests
 
 ---
 
-## 📊 Fonte dos dados
-
-Os dados utilizados foram organizados para fins educacionais e demonstrativos.  
-*(Adapte aqui se você tiver uma fonte pública ou se for um dataset próprio.)*
-
----
-
 ## ✨ Melhorias futuras
 
 - 📈 Gráficos interativos sobre desempenho dos times
