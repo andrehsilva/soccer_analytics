@@ -113,4 +113,4 @@ Os dados utilizados foram organizados para fins educacionais e demonstrativos.
 ## 🤘 Autor
 
 **André Rodrigues**  
-🔗 [LinkedIn](https://www.linkedin.com/) | 🚀 [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/andrehrsilva/) 
